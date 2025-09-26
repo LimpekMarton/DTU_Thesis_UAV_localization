@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb9829ce-3393-4cfd-9ca0-23ce17da8d41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UAV_Swarm_Simulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav5_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav6_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav7_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav8_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/10UAV/uav9_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/5UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/5UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/5UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/5UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/5UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/6UAV/uav5_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav5_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/7UAV/uav6_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav5_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav6_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/8UAV/uav7_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav0_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav1_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav2_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav3_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav4_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav5_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav6_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav7_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/9UAV/uav8_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/EKF_full_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/SMDS_correct_missing_conn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/coordinate_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/joint_EKF_full.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/mds_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/mds_map_p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/multidimensional_scaling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/smds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/smds_more_AN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/localization/static_localization_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/uav.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simulation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simulation/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simulation/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visualization.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wXBUEAyYVcm24BKjzowNRfOopq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marton/PycharmProjects/UAV_Swarm_Simulator/data/input/10UAV&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/input/10UAV" />
+      <recent name="$PROJECT_DIR$/data/input/9UAV" />
+      <recent name="$PROJECT_DIR$/data/input/8UAV" />
+      <recent name="$PROJECT_DIR$/data/input/7UAV" />
+      <recent name="$PROJECT_DIR$/data/input/6UAV" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/input/5UAV" />
+      <recent name="$PROJECT_DIR$/data/output" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UAV_Swarm_Simulator" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9829ce-3393-4cfd-9ca0-23ce17da8d41" name="Changes" comment="" />
+      <created>1746178051116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746178051116</updated>
+      <workItem from="1746178052117" duration="64909000" />
+      <workItem from="1747720348416" duration="45441000" />
+      <workItem from="1751895761779" duration="44747000" />
+      <workItem from="1754998037821" duration="42845000" />
+      <workItem from="1755285667347" duration="7802000" />
+      <workItem from="1755340900941" duration="22679000" />
+      <workItem from="1755424828787" duration="13244000" />
+      <workItem from="1755440403134" duration="23147000" />
+      <workItem from="1755525732701" duration="39867000" />
+      <workItem from="1755708296017" duration="12029000" />
+      <workItem from="1755794393336" duration="7536000" />
+      <workItem from="1755805966849" duration="10687000" />
+      <workItem from="1755854084964" duration="1260000" />
+      <workItem from="1755855729864" duration="7305000" />
+      <workItem from="1755864584515" duration="17178000" />
+      <workItem from="1755977708734" duration="17901000" />
+      <workItem from="1756041801024" duration="8510000" />
+      <workItem from="1756061047359" duration="63867000" />
+      <workItem from="1756452156395" duration="5176000" />
+      <workItem from="1756656886071" duration="58096000" />
+      <workItem from="1757075858617" duration="46106000" />
+      <workItem from="1757417928178" duration="22789000" />
+      <workItem from="1757508541979" duration="14941000" />
+      <workItem from="1758140719966" duration="10188000" />
+      <workItem from="1758280101699" duration="30112000" />
+      <workItem from="1758405654177" duration="36002000" />
+      <workItem from="1758564185489" duration="5952000" />
+      <workItem from="1758619904902" duration="3238000" />
+      <workItem from="1758639357271" duration="644000" />
+      <workItem from="1758656311609" duration="863000" />
+      <workItem from="1758781577854" duration="11576000" />
+      <workItem from="1758890172574" duration="4941000" />
+      <workItem from="1758920922290" duration="1390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UAV_Swarm_Simulator$main.coverage" NAME="main Coverage Results" MODIFIED="1758906943844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
